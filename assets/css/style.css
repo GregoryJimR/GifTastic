@@ -1,0 +1,75 @@
+button,
+div,
+form,
+input {
+    margin: 10px;
+}
+
+.item {
+    border: 2px outset black;
+    margin: 5px 5px;
+    padding: 0px;
+    float: left;
+    background-color: #101820;
+    font: black;
+    font-size: 14px;
+}
+
+.container {
+    background-color: #0085CA;
+    border: 2px outset black;
+    min-height: 108;
+    height: auto;
+}
+
+.container2 {
+    background-color: white;
+    margin: 10px 0px;
+}
+
+button {
+    border: 1px outset black;
+    margin: 5px 10px;
+
+}
+
+.giphy-view {
+    padding: 0px;
+    height: auto;
+    width: auto;
+}
+
+#button-input {
+    margin-left: 15px;
+}
+
+#pounding {
+    width: 102%;
+    position: relative;
+    right: 5px;
+}
+
+button,
+#add-button {
+    background-color: #A5ACAF;
+}
+
+.carolinaPanthers {
+    height: 180px;
+    margin-top: 20px;
+    border: 2px outset black;
+    background-color: white;
+    padding: 0px;
+    width: 100%;
+}
+
+.pLogo {
+    height: 140px;
+    position: relative;
+
+    background-color: white;
+}
+
+.body {
+    background-color: #A5ACAF;
+}
